@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "optRF"]
 	path = optRF
-	url = https://github.com/cran/optRF
+	url = https://github.com/tmlange/optrf
