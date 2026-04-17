@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "APS"]
+	path = APS
+	url = https://github.com/cran/APS
 [submodule "optRF"]
 	path = optRF
 	url = https://github.com/tmlange/optrf
